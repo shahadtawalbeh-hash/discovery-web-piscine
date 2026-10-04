@@ -1,0 +1,10 @@
+Git Workflow : Add, Commit, push
+
+1. git add README.md git_workflow.txt 
+ Stages the files for the next commit. 
+
+2. git commit -m " Add  README and  git workflow"
+Saves the staged changes in the local repo.
+
+3.git push origin main
+Uploads the commited changes to github.

@@ -1,0 +1,40 @@
+dev_workspace:
+total 20
+drwxrwxr-x 5 kali kali 4096 Oct  3 18:32 .
+drwxrwxr-x 3 kali kali 4096 Oct  3 18:51 ..
+drwxrwxr-x 2 kali kali 4096 Oct  3 18:32 archives
+drwxrwxr-x 3 kali kali 4096 Oct  3 18:38 projects
+drwxrwxr-x 2 kali kali 4096 Oct  3 18:32 tools
+
+dev_workspace/archives:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  3 18:32 .
+drwxrwxr-x 5 kali kali 4096 Oct  3 18:32 ..
+
+dev_workspace/projects:
+total 12
+drwxrwxr-x 3 kali kali 4096 Oct  3 18:38 .
+drwxrwxr-x 5 kali kali 4096 Oct  3 18:32 ..
+drwxrwxr-x 4 kali kali 4096 Oct  3 18:38 web
+
+dev_workspace/projects/web:
+total 16
+drwxrwxr-x 4 kali kali 4096 Oct  3 18:38 .
+drwxrwxr-x 3 kali kali 4096 Oct  3 18:38 ..
+drwxrwxr-x 2 kali kali 4096 Oct  3 18:38 backend
+drwxrwxr-x 2 kali kali 4096 Oct  3 18:38 frontend
+
+dev_workspace/projects/web/backend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  3 18:38 .
+drwxrwxr-x 4 kali kali 4096 Oct  3 18:38 ..
+
+dev_workspace/projects/web/frontend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  3 18:38 .
+drwxrwxr-x 4 kali kali 4096 Oct  3 18:38 ..
+
+dev_workspace/tools:
+total 8
+drwxrwxr-x 2 kali kali 4096 Oct  3 18:32 .
+drwxrwxr-x 5 kali kali 4096 Oct  3 18:32 ..
