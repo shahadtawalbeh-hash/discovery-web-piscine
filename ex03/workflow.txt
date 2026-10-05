@@ -1,0 +1,16 @@
+Git workflow:
+
+    Create or edit files.
+    Check changes using git status.
+    Add files using git add.
+    Commit changes using git commit.
+    Push changes to GitHub using git push.
+
+
+Commands used:
+
+git status
+git add .
+git commit -m "message"
+git push
+
